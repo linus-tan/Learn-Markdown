@@ -128,3 +128,59 @@ $(document).ready(function () {
 	alert(1);
 	alert(1);
 	alert(1);
+	
+### 链接
+
+[链接名称](链接地址)
+
+或者
+
+<链接地址>
+
+这是一个链接 [菜鸟教程](https://www.runoob.com)
+
+<https://www.runoob.com>
+
+
+
+这个链接用 1 作为网址变量 [Google][1]
+这个链接用 runoob 作为网址变量 [Runoob][runoob]
+然后在文档的结尾为变量赋值（网址）
+
+  [1]: http://www.google.com/
+  [runoob]: http://www.runoob.com/
+  
+  
+### 图片
+
+![alt 属性文本](图片地址)
+
+![alt 属性文本](图片地址 "可选标题")
+
+
+![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
+
+![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
+
+
+### 表格
+
+|  表头   | 表头  |
+|  ----  | ----  |
+| 单元格  | 单元格 |
+| 单元格  | 单元格 |
+
+
+### 表格的对齐方式
+
+| 左对齐 | 右对齐 | 居中对齐 |
+| :-----| ----: | :----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
+
+
+### 其他
+使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
+
+**文本加粗** 
+\*\* 正常显示星号 \*\*
